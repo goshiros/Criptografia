@@ -1,9 +1,3 @@
-/* ************************************************************************** */
-/* Nome: Giovana Oshiro da Silva                                              */
-/* Numero USP: 8022103                                                        */
-/* Exercício-programa 2                                                       */
-/* ************************************************************************** */
-
 /* O meu programa utiliza entrada de arquivo apenas em LETRAS MAIÚSCULAS */
 
 #include <stdio.h>
